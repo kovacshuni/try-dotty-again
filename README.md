@@ -1,9 +1,12 @@
-## sbt project compiled with Dotty
+# Simple akka-http running on Dotty compiler
 
-### Usage
+## Usage
 
-This is a normal sbt project, you can compile code with `sbt compile` and run it
-with `sbt run`, `sbt console` will start a Dotty REPL.
+```
+sbt compile
+sbt run
+```
 
-For more information on the sbt-dotty plugin, see the
-[dotty-example-project](https://github.com/lampepfl/dotty-example-project/blob/master/README.md).
+References:
+
+* [dotty-example-project](https://github.com/lampepfl/dotty-example-project/blob/master/README.md).
